@@ -3,7 +3,8 @@ layout: page
 title: Committees
 permalink: /committees/
 --- 
- 
+
+
 #### Organising Committee   
 
 **General Chair**       || [Mohamed Chetouani](mailto:dan.stowell@qmul.ac.uk)          ||       Sorbonne University
