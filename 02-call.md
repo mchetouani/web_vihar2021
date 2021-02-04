@@ -12,7 +12,7 @@ VIHAR-2019 is scheduled to take place as a satellite event immediately before th
 
 The workshop follows the success of the 1st International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
 
-We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2019 proceedings** that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
+We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2021 proceedings** . <!--that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
 
 Suggested workshop topics may include, but are not limited to the following areas:
 - Physiological and morphological comparisons between vocal systems in animals
@@ -29,16 +29,16 @@ Suggested workshop topics may include, but are not limited to the following area
 
 Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
 
-Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
+Submission link: [https://easychair.org/conferences/?conf=vihar2021](https://easychair.org/conferences/?conf=vihar2021)
 
 Author kit:
-- Word template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx](http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx)
-- Latex template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip)
+- Word template: [http://vihar-2021.vihar.org/assets/templates/vihar2021_word_template.docx](http://vihar-2021.vihar.org/assets/templates/vihar2021_word_template.docx)
+- Latex template: [http://vihar-2021.vihar.org/assets/templates/vihar2021_latex_template.zip](http://vihar-2021.vihar.org/assets/templates/vihar2021_latex_template.zip)
 
 Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 
 Key Dates:
-- Submission deadline - ~~3 May 2019~~ 10 May 2019
-- Notification of acceptance - ~~14 June 2019~~ 24 June 2019
-- Workshop - 29-30 August 2019
+- Submission deadline -  July 2021
+- Notification of acceptance - August 2021
+- Workshop - 14-15 October 2021
 
