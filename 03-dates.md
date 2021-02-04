@@ -8,7 +8,7 @@ permalink: /dates/
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**-->
 
-|  July 2021          ||             Submission deadline 
+| July 2021          ||             Submission deadline 
 | August 2021          ||             Notification of acceptance
 | September 2021          ||             Early registration closes
 | September 2021         ||             Final versions for inclusion in proceedings
