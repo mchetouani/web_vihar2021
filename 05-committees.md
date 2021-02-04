@@ -39,10 +39,11 @@ Ricard Marxer      ||    Université de Toulon, Aix Marseille Univ, CNRS, LIS
 
 
 <br/>  
-  
-#### Local Arrangements Team
-
+ <!---
+#### Local Arrangements Team -->
+ <!---
 Veronica Morfi     ||    Queen Mary University of London
 Zico Pratama Putra        ||    Queen Mary University of London
 Shuge Wang       ||    Queen Mary University of London
 Courtney  Reed        ||    Queen Mary University of London
+-->
