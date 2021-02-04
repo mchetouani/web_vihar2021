@@ -8,8 +8,8 @@ permalink: /dates/
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**-->
 
-|  ~~3 May 2019~~ 10 May 2019          ||             Submission deadline 
-| ~~14 June 2019~~ 24 June 2019          ||             Notification of acceptance
-| ~~12 July 2019~~          ||             Early registration closes
-| ~~12 July 2019~~ 26 July 2019         ||             Final versions for inclusion in proceedings
-| 29-30 August 2019     ||             Workshop
+|  July 2021          ||             Submission deadline 
+| August 2021          ||             Notification of acceptance
+| September 2021          ||             Early registration closes
+| September 2021         ||             Final versions for inclusion in proceedings
+| 14-15 October 2021     ||             Virtual Workshop
